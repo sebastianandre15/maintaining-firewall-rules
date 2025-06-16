@@ -90,6 +90,6 @@ Examples:
 
 ---
 
-## 📜 License
+## License
 
 This project was developed as coursework for academic purposes.
